@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="8.0.1" transformSequenceNumber="3">
+  <directoryPresets config="D:/Java/QuA/out/artifacts/QuA_jar" />
+  <application name="问答系统" distributionSourceDir="C:/Users/31706/Desktop" />
+  <executable name="问答系统" wrapperType="embed" executableMode="gui" />
+  <java mainClass="MainWindow.LoginFrame" minVersion="1.7" maxVersion="1.8">
+    <classPath>
+      <archive location="D:/Java/QuA/out/artifacts/QuA_jar/QuA.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>

@@ -1,0 +1,11 @@
+UserID,Round,Duration,TransTimes,Task1Ans,Task2Ans,Task3Ans,Task1True,Task2True,Task3True
+3, 1, 2.795, 0, B, B, B, C, D, B
+3, 2, 0.405, 0, B, B, B, A, B, B
+3, 3, 0.275, 0, B, B, B, C, B, C
+3, 4, 0.241, 0, B, B, B, C, D, C
+3, 5, 0.207, 0, B, B, B, B, E, B
+3, 6, 0.219, 0, B, B, B, B, D, D
+3, 7, 0.231, 0, B, B, B, D, C, D
+3, 8, 0.352, 0, B, B, B, D, E, D
+3, 9, 0.443, 0, B, B, B, E, A, B
+3, 10, 0.617, 0, B, B, B, D, D, A
