@@ -881,8 +881,8 @@ public class ThreeTaskMainFrame extends JFrame{
     }
 
     private String translate(String in){
-        String APP_ID = "20210317000731202";
-        String SECURITY_KEY = "fQVJLHBolm0clop7QcnP";
+        String APP_ID = "*******";
+        String SECURITY_KEY = "*******";
 
         TransApi api = new TransApi(APP_ID, SECURITY_KEY);
 
